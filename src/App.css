@@ -125,9 +125,9 @@ h3,h4,h5,h6 {
     align-items: center;
 }
 .logo img{
-    width: 30px;
+    width: 45px;
     height: auto;
-    padding-top: 50px;
+    padding-top: 0px;
 }
 /* .header-title{
     margin:0;
