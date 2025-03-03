@@ -19,6 +19,7 @@ body{
     font-size: 1.6rem;
     line-height: 1.4;
     font-family: '微軟正黑體',arial;/* 新增字體設定 前面微軟正黑體為主要字體，後面為替補字體 */
+    overflow-x: hidden;
 }
 /* 字體設定 */
 h1,h2{
@@ -51,16 +52,10 @@ h3,h4,h5,h6 {
 
 
 /* 首圖 */
-.first{
-    /* width: 1920px; */
-    height: 455px;
-   
-    /* title */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #ffffff;
-    
+.firstpic{
+    width: 100vw;
+    height:auto;
+    margin-top: 80px;
 }
 
 /* ------------------------- *\ 
