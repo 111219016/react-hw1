@@ -29,9 +29,6 @@ function App() {
         </div>
     </header>
     
-    <div className="first">
-        <h1 className="main-title">MENU</h1>
-    </div>
         
     
     
