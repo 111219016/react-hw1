@@ -54,11 +54,7 @@ h3,h4,h5,h6 {
 .navbar{/* 導覽列大框架 */
     height: 100px;/* 高度 */
     background-color:rgba(250,247,237,1);/* 將hex色彩轉成rgba，最後一個數值為透明度 */
-    display: flex;
-    
-    width: 100%;
-/*     left: 0;
-    top: 0; */
+    z-index:99;
     justify-content: space-between;/* logo 導覽按鈕左右分開 */
     align-items: center;/* 居中對齊 */
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);/* 陰影 */
