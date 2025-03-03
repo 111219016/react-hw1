@@ -29,6 +29,8 @@ function App() {
         </div>
     </header>
 
+      <div className="space">
+      </div>
     
     <div className="dessert">
       
