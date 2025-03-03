@@ -30,6 +30,7 @@ function App() {
     </header>
     
     <section className="first">
+      <img src="../images/2025-03-03 192448.png" />
         <h1 className="main-title">MENU</h1>
     </section>
         
