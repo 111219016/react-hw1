@@ -57,8 +57,8 @@ h3,h4,h5,h6 {
     display: flex;
     
     width: 100%;
-    left: 0;
-    top: 0;
+/*     left: 0;
+    top: 0; */
     justify-content: space-between;/* logo 導覽按鈕左右分開 */
     align-items: center;/* 居中對齊 */
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);/* 陰影 */
@@ -80,13 +80,6 @@ h3,h4,h5,h6 {
     height: auto;
     padding-top: 0px;
 }
-/* .header-title{
-    margin:0;
-    margin-left: 20px;
-    color: #ffffff;
-    font-family: "cwTeXFangSong", serif;
-    font-weight: 400;
-} */
 
 /* 右邊的導覽按鈕區 */
 
