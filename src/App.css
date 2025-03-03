@@ -33,11 +33,6 @@ h3,h4,h5,h6 {
 }
 
 /* 變數管理 */
-:root {
-    /* 定義變數 */
-    --navbar-height: 80px;
-    --w-navbar: 80px;
-}
 
 
 
@@ -75,7 +70,7 @@ h3,h4,h5,h6 {
 /* navbar下面的小弧形 */
 
 .navbar{/* 導覽列大框架 */
-    height: var(--navbar-height);/* 高度 */
+    height: 100px;/* 高度 */
     background-color:rgba(250,247,237,1);/* 將hex色彩轉成rgba，最後一個數值為透明度 */
     display: flex;
     position: fixed;
