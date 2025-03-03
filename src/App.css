@@ -54,8 +54,6 @@ h3,h4,h5,h6 {
 .firstpic{
     width: 100vw;
     height:auto;
-    display:flex;
-   align-self:start;
 }
 
 /* ------------------------- *\ 
