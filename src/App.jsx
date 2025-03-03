@@ -31,10 +31,9 @@ function App() {
 
       <div className="space">
       </div>
-    
+
+      <img src="../images/2025-03-03 192448.png" className="firstpic"  />
     <div className="dessert">
-      
-        <img src="../images/2025-03-03 192448.png" className="firstpic"  />
         <h2>Dessert</h2>
         <img src="../images/star_brown.svg" className="star_white" alt="star_white" /> 
         <div className="products">
