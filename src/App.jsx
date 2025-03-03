@@ -28,9 +28,10 @@ function App() {
             </ul>
         </div>
     </header>
-    
-    <img src="../images/2025-03-03 192448.png" className="firstpic"  /> 
-    
+
+    <div>
+      <img src="../images/2025-03-03 192448.png" className="firstpic"  /> 
+    </div>
     
     <div className="dessert">
         
