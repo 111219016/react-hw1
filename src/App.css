@@ -35,13 +35,8 @@ h3,h4,h5,h6 {
 /* 變數管理 */
 :root {
     /* 定義變數 */
-    --navbar-height: 72px;
+    --navbar-height: 80px;
     --w-navbar: 80px;
-    
-    --sunmoon-size:90px;
-    --sunmoon-height: 23%;
-    --first-logo-height: 62%;
-    /* --first-logo-height: calc(65% - (10vw / 2)) ; */
 }
 
 
@@ -164,10 +159,6 @@ h3,h4,h5,h6 {
 /* ------------------------- *\ 
     body 主內容
 \* ------------------------- */
-.drops{
-    width:150px;
-    height:auto;
-}
 
 .dessert{
     background-color: #faf7ed;
