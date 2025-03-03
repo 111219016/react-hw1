@@ -29,7 +29,7 @@ function App() {
         </div>
     </header>
     
-        
+    <img src="../images/2025-03-03 192448.png" className="firstpic" /> 
     
     
     <div className="dessert">
