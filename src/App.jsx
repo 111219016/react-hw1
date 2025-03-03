@@ -36,7 +36,7 @@ function App() {
     
     
     <div className="dessert">
-        <img src="../images/drop_blue.svg" className="drops" />
+        
         <h2>Dessert</h2>
         <img src="../images/star_brown.svg" className="star_white" alt="star_white" /> 
         <div className="products">
@@ -69,7 +69,7 @@ function App() {
     </div>
     
     <div className="coffee">
-        <img src="../images/drop_yellow.svg" className="drops" />
+        
         <h2>Coffee</h2>
         <img src="../images/star_white.svg" className="star_white" alt="star_white" />    
         <div className="products">
