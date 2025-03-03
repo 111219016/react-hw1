@@ -40,22 +40,20 @@ h3,h4,h5,h6 {
     Layout
 \* ------------------------- */
 
-.mask-dark{
-    /* 注意權重，以及遮罩寫的位置 */
+/* .mask-dark{
     position: absolute;
     background-color: rgba(0,0,0,0.6);
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-}
+} */
 
 
 /* 首圖 */
 .firstpic{
     width: 100vw;
     height:auto;
-    position:relative;
 }
 
 /* ------------------------- *\ 
@@ -67,8 +65,8 @@ h3,h4,h5,h6 {
     height: 100px;/* 高度 */
     background-color:rgba(250,247,237,1);/* 將hex色彩轉成rgba，最後一個數值為透明度 */
     display: flex;
-    position: fixed;
-    z-index: 99;
+/*     position: fixed;
+    z-index: 99; */
     width: 100%;
     left: 0;
     top: 0;
