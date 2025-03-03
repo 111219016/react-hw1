@@ -20,6 +20,7 @@ body{
     line-height: 1.4;
     font-family: '微軟正黑體',arial;/* 新增字體設定 前面微軟正黑體為主要字體，後面為替補字體 */
     overflow-x: hidden;
+    z-index:99;
 }
 /* 字體設定 */
 h1,h2{
