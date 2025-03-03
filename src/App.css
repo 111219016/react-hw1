@@ -53,10 +53,7 @@ h3,h4,h5,h6 {
 /* 首圖 */
 .firstpic{
     width: 100vw;
-    height:auto;
-    display:flex;
-    align-self:flex-start;
-    justify-self:center;
+    height:600px;
 }
 
 /* ------------------------- *\ 
