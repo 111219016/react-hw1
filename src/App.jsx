@@ -34,7 +34,7 @@ function App() {
 
       
     <div className="dessert">
-      <img src="../images/2025-03-03 192448.png" className="firstpic"  />
+      <img src="../images/2025-03-04 093311.png" className="firstpic"  />
         <h2>Dessert</h2>
         <img src="../images/star_brown.svg" className="star_white" alt="star_white" /> 
         <div className="products">
